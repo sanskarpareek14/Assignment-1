@@ -12,3 +12,5 @@ In this task,I have written various functions in python based on built-in dataty
 Implementing gradient descent (for simple linear regression) from scratch.
 # Ass - 7.2
 In this assignment, I have built a model which is used to predict the price of house based on several factors related to house which helps to analyze the estimated price of house.
+# Ass - 8
+Analysis & Predict Heart Attack based on Age, Gender, No. of disease they have and some other aspects
