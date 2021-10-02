@@ -14,3 +14,5 @@ Implementing gradient descent (for simple linear regression) from scratch.
 In this assignment, I have built a model which is used to predict the price of house based on several factors related to house which helps to analyze the estimated price of house.
 # Ass - 8
 Analysis & Predict Heart Attack based on Age, Gender, No. of disease they have and some other aspects
+# Ass - 9
+Leaf classification
